@@ -1,0 +1,14 @@
+# Generated code / custom files
+abandoned
+
+# Maven
+target
+
+# Visual Studio Code / dotnet
+.vscode
+
+# Mac temp binary
+*.dSYM
+
+.DS_Store
+
